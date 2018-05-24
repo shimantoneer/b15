@@ -1,4 +1,4 @@
 <?php
-header("Location: https://aqualabaquaria.com/");
+header("Location: http://thedoorcampaign.org/staff/");
 die();
 ?>
